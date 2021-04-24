@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leli254
 - 👀 I’m interested in Python and Django
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently building using Django
 - 💞️ I’m looking to collaborate on Python/Django projects
 - 📫 You can reach me via twitter @lelimichael
 

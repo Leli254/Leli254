@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Leli254
-- 👀 I’m interested in Python and Django
-- 🌱 I’m currently building using Django
-- 💞️ I’m looking to collaborate on Python/Django projects
+- 👀 I’m interested in Web development,Dapps,Blockchain, Machine learning & AI
+- 🌱 I’m currently building using Python | Django | web3.py | Javascript | HTML | CSS
+- 💞️ I’m looking to collaborate on Web development,Dapps, and NFTs projects
 - 📫 You can reach me via twitter @lelimichael
 
 <!---

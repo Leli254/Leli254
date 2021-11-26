@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Leli254
+- 👋 Hi, I’m Michael Leli from Kenya
 - 👀 I’m interested in Web development,Dapps,Blockchain, Machine learning & AI
-- 🌱 I’m currently building using Python | Django | web3.py | Javascript | HTML | CSS
+- 🌱 I’m currently building using Python | Django | Web3.py | Javascript | HTML | CSS
 - 💞️ I’m looking to collaborate on Web development,Dapps, and NFTs projects
 - 📫 You can reach me via twitter @lelimichael
 

@@ -28,16 +28,18 @@ I am a software engineer based in Kenya with a strong focus on building reliable
 
 Python · Django · FastAPI · SQLAlchemy · PostgreSQL · Docker · JavaScript · HTML · CSS
 
-Collaboration
+### Collaboration
 
 Open to collaborating on:
 
-Backend-heavy web platforms
+- Backend-heavy web platforms
 
-Data-driven or health-tech systems
+- Data-driven or health-tech systems
 
-Well-scoped open-source projects
+- Well-scoped open-source projects
 
-Contact
+---
+
+## Contact
 
 Twitter/X: @lelimichael

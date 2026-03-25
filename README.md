@@ -86,6 +86,3 @@ actually fits how clinicians and pharmacists operate.
 
 ---
 
-4. How to run it locally (copy-paste commands)
-5. Screenshots or a demo link
-6. Your contact / hire me link at the bottom

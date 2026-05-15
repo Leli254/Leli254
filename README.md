@@ -80,6 +80,7 @@ actually fits how clinicians and pharmacists operate.
 |---|---|
 | 🌐 Portfolio | [lyttis.com](https://lyttis.com) |
 | 💼 LinkedIn | [linkedin.com/in/michael-leli](https://linkedin.com/in/michael-leli) |
+| Stackoverflow | [stackoverflow.com/users/21386579/michael-leli](https://stackoverflow.com/users/21386579/michael-leli) | |
 | 📧 Email | lelisoftware@gmail.com |
 | 🐦 Twitter/X | [@lelimichael](https://twitter.com/lelimichael) |
 ```
